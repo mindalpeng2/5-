@@ -29,3 +29,12 @@ body {
     text-decoration: line-through;
     color: #999;
 }
+.category-학교 { background-color: #f3e5f5 !important; }
+.category-친구 { background-color: #ffe0b2 !important; }
+.category-알바 { background-color: #b3e5fc !important; }
+.category-기타 { background-color: #c8e6c9 !important;}
+
+.completed {
+    text-decoration: line-through;
+    color: #999;
+}
